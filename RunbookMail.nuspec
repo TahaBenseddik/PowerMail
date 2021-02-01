@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>PowerMail</id>
+    <version>$VERSIONHERE$</version>
+    <authors>Taha Benseddik</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl></projectUrl>
+    <description>Package that contains powershell module to send mail (Exchange)</description>
+    <releaseNotes>None</releaseNotes>
+    <copyright>copyright 2021</copyright>
+    <tags>Mail</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
