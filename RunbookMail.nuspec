@@ -6,7 +6,7 @@
     <authors>Taha Benseddik</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>https://github.com/TahaBenseddik/PowerMail</projectUrl>
+    <projectUrl></projectUrl>
     <description>Package that contains powershell module to send mail (Exchange)</description>
     <releaseNotes>None</releaseNotes>
     <copyright>copyright 2021</copyright>
